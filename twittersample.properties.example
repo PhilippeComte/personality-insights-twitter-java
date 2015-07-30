@@ -7,7 +7,12 @@
 # With the application created, navigate to the API Keys page and click "Create my access token". 
 # You now have the four necessary credentials. Copy the API key, API secret, 
 # Access token, and Access token secret here.
-# NOTE: API key and API secret go in the consumerKey and consumerSecret fields.
+# NOTE: API key and API secret go in the consumerKey and consumerSecret fields
+# Consumer Key (API Key)	dZ5O4NJ1I9hFfNiq1mqjWhqUe
+# Consumer Secret (API Secret)	ImLMGK3GCuHiRBjrmg8CZIqzEkKF37ZSxtoC0U7Her3KRJ8oAd
+# Access Token	491403804-BqMk9LlfcczZglMR1ji8WKjHofuZd3MYH5P7fKIF
+# Access Token Secret	a42isYOdf3KenmxB9i8UKr9ozc2ytA63feEPXTxJ9ifPb
+
 twitter.consumerKey=
 twitter.consumerSecret=
 twitter.accessToken=
